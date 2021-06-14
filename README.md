@@ -1,3 +1,5 @@
 https://spaulmark.github.io/linkedin/
 
-This might be illegal, but I'm just one guy, and no one has stopped me yet.
+Turns out you don't actually need a linkedin account to have a linkedin account. 
+
+If you want to follow me on linkedin, just follow me on github instead! 
